@@ -1,0 +1,26 @@
+{
+  "firmwares": [
+    {
+      "model": "EYHUA1",
+      "version": "1.2.3",
+      "url": "https://raw.githubusercontent.com/DEIN_USER/firmware-updates/main/EYHUA1/firmware_easy_v1.2.3.bin",
+      "released": "2025-08-01T10:00:00Z",
+      "hash": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "notes": [
+        "Fix: Motor blockiert bei -15°C nicht mehr.",
+        "BLE-Verbindung robuster.",
+        "Heizlogik überarbeitet."
+      ]
+    },
+    {
+      "model": "EYRMA1",
+      "version": "1.2.3",
+      "url": "https://raw.githubusercontent.com/DEIN_USER/firmware-updates/main/EYRMA1/firmware_easy_v1.2.3.bin",
+      "released": "2025-08-01T10:00:00Z",
+      "hash": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+      "notes": [
+        "BLE-Verbindung robuster."
+      ]
+    }
+  ]
+}
